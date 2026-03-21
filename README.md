@@ -66,7 +66,3 @@ Email: [alienlakshmi800@gmail.com](mailto:alienlakshmi800@gmail.com)
 GitHub: https://github.com/alien2088
 LinkedIn: https://www.linkedin.com/in/alien-lakshmi-866082390
 
-## How to Run
-
-1. Download or clone the repository
-2. Open the index.html file in a web browser
